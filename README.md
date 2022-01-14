@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+
+
+
 <div  align="left">
   
+[![Andrey123815's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey123815&count_private=true&show_icons=true&theme=radical)]()
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey123815&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey123815&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 # Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
