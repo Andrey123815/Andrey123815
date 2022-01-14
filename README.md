@@ -20,6 +20,17 @@ Here are some ideas to get you started:
   
 [![Andrey123815's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey123815&count_private=true&show_icons=true&theme=radical)]()
   
+# Follow me
+  
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/And_Dayk)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/diakonov_041)
+[![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/iddiakonov_041)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=27A0D9)](https://twitter.com/ivredomon?t=Y_vpcIiqIlrzdM4LcE3urw&s=09)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100076707275289)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=1195F5)](https://gitlab.com/Andrey123815)
+<br>
+  <br>
+  
   
   
 # Languages
@@ -33,17 +44,38 @@ Here are some ideas to get you started:
 <br>
   <br>
 
+
+  
+# My achievements and sertivicates:
   
   
-## Follow me <a name = "developer"></a>
+#### Sertivicates on Stepic online cources:
   
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/And_Dayk)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/diakonov_041)
-[![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/iddiakonov_041)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=27A0D9)](https://twitter.com/ivredomon?t=Y_vpcIiqIlrzdM4LcE3urw&s=09)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100076707275289)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=1195F5)](https://gitlab.com/Andrey123815)
-<br>
-  <br>
+- Введение в программирование (С++) (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/780680)
+  
+- Алгоритмы: теория и практика. Методы (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1026617)
+  
+- "Поколение Python": курс для начинающих (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1035068)
+  
+- Веб-разработка для начинающих: HTML и CSS (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1359003)
+  
+- JavaScript для начинающих (Certificate with honors. 100% passed) [Certificate ENTER]()
+  
+- Программирование на Golang (Certificate with honors. 100% passed) [Certificate ENTER]()
+  
+- Основы HTML и CSS (Graduated with honors. 100% passed)
   
   
+  
+#### Sertivicates on Vk Group(Mail.ru Group) semester courses:  
+
+- Preparatory course in C/C++ (Certificate with honors. 100% passed) [Certificate](https://park.vk.company/curriculum/certificates/download/2173/ec9fa990-7861-43e7-863f-24c142cc2cc1/)
+  
+- Basic Linux Administration (Certificate with honors. 100% passed) [Certificate](https://park.vk.company/curriculum/certificates/download/1976/1ce4aa79-46a4-4153-a7dd-d5380863e045/)
+  
+
+#### Sertivicates on Vk Group(Mail.ru Group) main program courses(4 semesters): 
+  
+- diploma of Web developer (Diploma 100% passed) [Certificate ENTER]()
+  
+-   diploma of System Architect (Diploma 100% passed) [Certificate ENTER]()
