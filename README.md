@@ -1,21 +1,3 @@
-<!-- ### Hi there 👋
-
-**Andrey123815/Andrey123815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-
-
-
 <div  align="left">
   
 [![Andrey123815's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey123815&count_private=true&show_icons=true&theme=radical)]()
@@ -51,19 +33,19 @@ Here are some ideas to get you started:
   
 #### Sertivicates on Stepic online cources:
   
-- Введение в программирование (С++) (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/780680)
+- Introduction to Programming(С++) (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/780680)
   
-- Алгоритмы: теория и практика. Методы (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1026617)
+- Algorithms: theory and practice. Methods (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1026617)
   
-- "Поколение Python": курс для начинающих (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1035068)
+- "Python Generation": a course for beginners (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1035068)
   
-- Веб-разработка для начинающих: HTML и CSS (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1359003)
+- Web development for beginners: HTML и CSS (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1359003)
   
-- JavaScript для начинающих (Certificate with honors. 100% passed) [Certificate ENTER]()
+- Programming on Golang (Certificate with honors. 100% passed) [Certificate ENTER]()
   
-- Программирование на Golang (Certificate with honors. 100% passed) [Certificate ENTER]()
+- JavaScript for beginners (Certificate with honors. 100% passed) [Certificate ENTER]()
   
-- Основы HTML и CSS (Graduated with honors. 100% passed)
+- HTML and CSS Basics (Graduated with honors. 100% passed)
   
   
   
@@ -76,6 +58,6 @@ Here are some ideas to get you started:
 
 #### Sertivicates on Vk Group(Mail.ru Group) main program courses(4 semesters): 
   
-- diploma of Web developer (Diploma 100% passed) [Certificate ENTER]()
+- Diploma of Web developer (Diploma 100% passed) [Certificate ENTER]()
   
--   diploma of System Architect (Diploma 100% passed) [Certificate ENTER]()
+- Diploma of System Architect (Diploma 100% passed) [Certificate ENTER]()
