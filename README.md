@@ -41,7 +41,7 @@
   
 - Web development for beginners: HTML и CSS (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1359003)
   
-- Programming on Golang (Certificate with honors. 100% passed) [Certificate ENTER]()
+- Programming on Golang (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1365046)
   
 - JavaScript for beginners (Certificate with honors. 100% passed) [Certificate ENTER]()
   
