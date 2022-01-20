@@ -44,7 +44,7 @@
   
 - Programming on Golang (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1365046)
   
-- JavaScript for beginners (Certificate with honors. 100% passed) [Certificate ENTER]()
+- JavaScript for beginners (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1368699)
   
 - HTML and CSS Basics (Graduated with honors. 100% passed)
   
