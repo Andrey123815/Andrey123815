@@ -18,14 +18,16 @@
   
   
 # Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E5D3FF)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=Qt&logoColor=2cde1f)
 ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql&logoColor=F8C52C)
+![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=d21423)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=F88C00)
-![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=6296CC)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=aa13d1)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=Qt&logoColor=1eb018)
+![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=0579f7)
 <br>
   <br>
 
