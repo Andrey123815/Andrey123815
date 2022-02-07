@@ -4,6 +4,7 @@
   
 # Follow me
   
+[![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/channel/UCBT7kqu7CPeJ5XI0AKoebPw)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/And_Dayk)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/diakonov_041)
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/iddiakonov_041)
