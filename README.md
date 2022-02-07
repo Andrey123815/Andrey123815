@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E5D3FF)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=Qt&logoColor=2cde1f)
 ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql&logoColor=F8C52C)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=F88C00)
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=6296CC)
