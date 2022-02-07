@@ -46,6 +46,8 @@
   
 - Web development for beginners: HTML и CSS (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1359003)
   
+- Interactive SQL simulator (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1389121)
+  
 - JavaScript for beginners (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1368699)
   
 - Programming on Golang (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/1365046)
