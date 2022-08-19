@@ -18,19 +18,32 @@
   
   
 # Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript&logoColor=1195F5)
+![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=d21423)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=aa13d1)
+![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql&logoColor=F8C52C)
+![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=0579f7)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=postgresql&logoColor=F8C52C)
-![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=d21423)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=F88C00)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=aa13d1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=Qt&logoColor=1eb018)
-![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=0579f7)
 <br>
   <br>
-
+  
+  
+  
+  
+# Frameworks and technologies
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=27A0D9)
+![Redux & Redux Toolkit](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=61fae0)
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=1eb018)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=f08bec)
+![Service Worker](https://img.shields.io/badge/-ServiceWorker-090909?style=for-the-badge&logo=w3c&logoColor=E9D54D)
+![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=Qt&logoColor=1eb018)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=F88C00)
+<br>
+  <br>
+  
 
   
 # My achievements and sertivicates:
