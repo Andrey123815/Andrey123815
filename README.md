@@ -78,6 +78,6 @@
 
 #### Sertivicates on Vk Group(Mail.ru Group) main program courses(4 semesters): 
   
-- Diploma of Web developer (Diploma 100% passed) [Certificate ENTER]()
+- Diploma of Web developer (Diploma 100% passed) [Certificate]()
   
-- Diploma of System Architect (Diploma 100% passed) [Certificate ENTER]()
+- Diploma of System Architect (Diploma 100% passed) [Certificate]()
