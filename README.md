@@ -68,8 +68,9 @@
   
 - HTML and CSS Basics (Graduated with honors. 100% passed)
   
-- Angular Itlogia (Certificate with honors. 100% passed)
-[Certificate](https://drive.google.com/file/d/1grRm6czgmmec1gVYBACCo2Eq4gCL2zy5/view?usp=drivesdk)  
+- Angular Itlogia (Certificate with honors. 100% passed) [Certificate](https://drive.google.com/file/d/1grRm6czgmmec1gVYBACCo2Eq4gCL2zy5/view?usp=drivesdk)
+
+- Backend on NodeJS (Certificate with honors. 100% passed [Certificate](https://stepik.org/cert/2153519)
   
   
 #### Sertivicates on Vk Group(Mail.ru Group) semester courses:  
