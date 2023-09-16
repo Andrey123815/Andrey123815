@@ -50,7 +50,7 @@
 # My achievements and sertivicates:
   
   
-#### Sertivicates on Stepic online cources:
+#### Online Cource Sertivicates:
   
 - Introduction to Programming(С++) (Certificate with honors. 100% passed) [Certificate](https://stepik.org/cert/780680)
   
