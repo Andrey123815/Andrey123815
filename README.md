@@ -73,14 +73,14 @@
 - Backend on NodeJS (Certificate with honors. 100% passed [Certificate](https://stepik.org/cert/2153519)
   
   
-#### Sertivicates on Vk Group(Mail.ru Group) semester courses:  
+#### Sertivicates on Vk Group (Mail.ru Group) semester courses:  
 
 - Preparatory course in C/C++ (Certificate with honors. 100% passed) [Certificate](https://park.vk.company/curriculum/certificates/download/2173/ec9fa990-7861-43e7-863f-24c142cc2cc1/)
   
 - Basic Linux Administration (Certificate with honors. 100% passed) [Certificate](https://park.vk.company/curriculum/certificates/download/1976/1ce4aa79-46a4-4153-a7dd-d5380863e045/)
   
 
-#### Sertivicates on Vk Group(Mail.ru Group) main program courses(4 semesters): 
+#### Sertivicates on Vk Group (Mail.ru Group) main program courses (4 semesters): 
   
 - Diploma of Web developer (Diploma 100% passed) [Certificate]()
   
